@@ -5,3 +5,4 @@ Packing List
 - Bread
 - coat
 - list 5
+-camera
